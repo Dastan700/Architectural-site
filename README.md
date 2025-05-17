@@ -1,1 +1,1 @@
-# Architectural-site
+This site was made for graduation
